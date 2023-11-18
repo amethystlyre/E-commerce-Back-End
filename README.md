@@ -4,7 +4,7 @@
 ## Description
     
 A backend system for an e-commerce site using MySQL database. The database is made up of three main tables: Products, Categories and Tags.
-Products and Categories have a one to many relationship while Products and Tags have a many to many relationship. A fourth table ProductTag is used to load the many to many association using Sequelize.
+Categories and Products have a one to many relationship while Products and Tags have a many to many relationship. A fourth table ProductTag is used to load the many to many association using Sequelize.
     
 ## Table of Contents
     
