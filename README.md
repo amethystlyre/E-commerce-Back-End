@@ -32,7 +32,7 @@ DB_PW ='your password'
 
 ## Usage
     
-Once the dependencies and database schema have been installed and setup, you can invoke the application with command `npm start` in the terminal. You can then send API requests to the database using tools such as Insomnia. Example of Get request sent to local host is `localhost:3001/api/products/`. For more detailed instructions, please watch the [walkthrough video](https:..).<br>
+Once the dependencies and database schema have been installed and setup, you can invoke the application with command `npm start` in the terminal. You can then send API requests to the database using tools such as Insomnia. Example of Get request sent to local host is `localhost:3001/api/products/`. For more detailed instructions, please watch the [walkthrough video](https://drive.google.com/file/d/1FdLaYRAlj0h_uegDlThLZhibQLzBKmoD/view?usp=sharing).<br>
 
 ![screenshot](./screenshots/Screenshot1.png)
 
